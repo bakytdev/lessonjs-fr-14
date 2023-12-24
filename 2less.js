@@ -139,7 +139,7 @@
 
 // let a = 10
 // let b = 99
-// let result = a + b
+// let result = a * b
 // console.log(result)
 
 // let a = '10'
